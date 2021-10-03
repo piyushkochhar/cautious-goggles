@@ -1,6 +1,6 @@
 ---
 title : Jekyll Demo
-layout : demo_template.html
+layout : demo_template
 author : Piyush Kochhar
 ---
 
