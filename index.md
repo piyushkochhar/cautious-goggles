@@ -1,5 +1,5 @@
 ---
-author : Piyush
+author : Piyush Kochhar
 ---
 
 ## This page is written by {{page.author}}
@@ -16,16 +16,12 @@ Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
 
 
-## Plugins
+## People
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
 
-| Plugin | README |
+| Name | City |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Sam | Los Angeles |
+| Pamela | Chicago |
+| Gila | Barcelona |
+| Mark | Boston |
